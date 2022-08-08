@@ -1,6 +1,6 @@
 ## Digital-Notebook
 
-I remember the time when I had to keep the notes of the homeworks assinged by teacher of different faculties in my school diary . It was a very disciplined approach to keep track of what you had to do . With the similar concept , I tried to build a desktop app to keep track of asssingments given by Professor . 
+I remember the time when I had to keep the notes of the homeworks assigned by teacher of different faculties in my school diary . It was a very disciplined approach to keep track of what you had to do . With the similar concept , I tried to build a desktop app to keep track of asssingments given by Professor . 
 When I was in school , it was homeworks .Now , when I am in college , it's assignments . Just like that , the tactic to keep notes has changed from physical to digital . 
 
 I used Tkinter library as a frontend and sqlite3 as a backend . 
